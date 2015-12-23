@@ -1,4 +1,4 @@
-require 'celluloid'
+require 'celluloid/current'
 require 'sidekiq/fetch'
 require 'redis_rate_limiter'
 
